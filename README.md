@@ -115,6 +115,9 @@ This project is private and not yet licensed for public distribution.
 AVIRAL BAJPAI
 **avrbt** — [GitHub](https://github.com/avrbt)
 
+AYUSH YADAV
+[GitHub](https://github.com/Ayush-Yadav-5)
+
 ---
 
 > *Built to make communities safer through the power of AI.*
